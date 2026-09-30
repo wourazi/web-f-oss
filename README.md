@@ -1,2 +1,2 @@
 # web-f-oss
-security-toolkit  osint  network-analysis  cryptography  privacy  python  terminal  cli  web-f-oss  wourazi  restokrat
+web.F/OSS — приватный security toolkit. Сетевой анализ, OSINT, криптография, утилиты. Всё локально. Авторы: wourazi & restokrat.
